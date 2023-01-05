@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="binarywss">
+    <Position X="9.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAAAAAABAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>minimize.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="binaryw0">
+    <Position X="4.75" Y="9.75" Width="1.5" />
+    <InheritanceLine Type="binarywss" ManuallyRouted="true" FixedFromPoint="true">
+      <Path>
+        <Point X="10.5" Y="8.497" />
+        <Point X="10.5" Y="9.375" />
+        <Point X="5.5" Y="9.375" />
+        <Point X="5.5" Y="9.75" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>minimize.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="binaryw1">
+    <Position X="7.5" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAAAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>minimize.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="binaryw2">
+    <Position X="9.75" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>minimize.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="binaryw3">
+    <Position X="12.25" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>minimize.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="binaryw4">
+    <Position X="15" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAABAAAA=</HashCode>
+      <FileName>minimize.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="bss" Collapsed="true">
+    <Position X="3.75" Y="13.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAABAgAAAAAAAA=</HashCode>
+      <FileName>minimize.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="bs01">
+    <Position X="0.5" Y="16.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAABA=</HashCode>
+      <FileName>minimize.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="bs12">
+    <Position X="2.75" Y="16.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAACA=</HashCode>
+      <FileName>minimize.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="bs23">
+    <Position X="5" Y="16.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAEA=</HashCode>
+      <FileName>minimize.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="bs34">
+    <Position X="7.25" Y="16.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAIA=</HashCode>
+      <FileName>minimize.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="bsso">
+    <Position X="12.25" Y="13.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAABARAAgAAAAA=</HashCode>
+      <FileName>minimize.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="bsem">
+    <Position X="9.75" Y="16.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAgEAAAAAAAA=</HashCode>
+      <FileName>minimize.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="bsmh">
+    <Position X="12" Y="16.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAASgAAAAAAAAA=</HashCode>
+      <FileName>minimize.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="bshn">
+    <Position X="14.5" Y="16.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUAIAAAAAAAA=</HashCode>
+      <FileName>minimize.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="bn" Collapsed="true">
+    <Position X="18.75" Y="13.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAABAAAAAAAAAAAAAAAEABABAAgAAAAA=</HashCode>
+      <FileName>minimize.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="bno1">
+    <Position X="17.25" Y="16.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgBAAAAAAAAAAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>minimize.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="bno2">
+    <Position X="20.25" Y="16.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAABAAAAAAAAAAAAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>minimize.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="And">
+    <Position X="1.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAACACAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>and.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gate">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAACACAAAgAAAAAAAAAACAgAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gates.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Not">
+    <Position X="8" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAACACAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>not.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vezetek">
+    <Position X="12.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAACACAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>not.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Or">
+    <Position X="14.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAiACAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>or.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="A">
+    <Position X="17" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAiAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>valtozok.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="B">
+    <Position X="3.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAACACAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>valtozok.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="C">
+    <Position X="5.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACACAAAAAAgAAAAAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>valtozok.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="D">
+    <Position X="10.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACACAAAAAAAQAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>valtozok.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
